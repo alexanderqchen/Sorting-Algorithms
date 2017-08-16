@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\alexa\documents\visual studio 2017\projects\sorting algorithms\sorting algorithms\source.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\visual studio 2017\projects\sorting algorithms\sorting algorithms\source.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\visual studio 2017\projects\sorting algorithms\sorting algorithms\source.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\visual studio 2017\projects\sorting algorithms\sorting algorithms\source.cpp(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\visual studio 2017\projects\sorting algorithms\sorting algorithms\source.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\visual studio 2017\projects\sorting algorithms\sorting algorithms\source.cpp(92): warning C4018: '<': signed/unsigned mismatch
+  Sorting Algorithms.vcxproj -> c:\users\alexa\documents\visual studio 2017\Projects\Sorting Algorithms\Debug\Sorting Algorithms.exe
+  Sorting Algorithms.vcxproj -> c:\users\alexa\documents\visual studio 2017\Projects\Sorting Algorithms\Debug\Sorting Algorithms.pdb (Partial PDB)
